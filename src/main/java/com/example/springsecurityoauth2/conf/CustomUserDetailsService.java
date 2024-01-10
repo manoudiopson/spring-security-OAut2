@@ -1,6 +1,5 @@
 package com.example.springsecurityoauth2.conf;
 
-
 import com.example.springsecurityoauth2.repository.DBUserRepository;
 import com.example.springsecurityoauth2.model.DBUser;
 import lombok.RequiredArgsConstructor;
